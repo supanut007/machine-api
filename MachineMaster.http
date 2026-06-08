@@ -1,0 +1,6 @@
+@MachineMaster_HostAddress = http://localhost:5080
+
+GET {{MachineMaster_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
